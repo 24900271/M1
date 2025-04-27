@@ -26,13 +26,10 @@ int main()
     printf("Characters in reverse order: %c %c %c\n", ch3, ch2, ch1);
     return 0;
 }
-
-## OUTPUT:
-Enter first character: A
-Enter second character: B
-Enter third character: C
-Characters in reverse order: C B A
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 135117](https://github.com/user-attachments/assets/b9478e4f-5131-4a70-a402-cc8515fe26cd)
+
 ## RESULT:
 Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
 
@@ -67,14 +64,10 @@ int main()
     }
     return 0;
 }
-
-# OUTPUT:
-Enter a value: 25
-25 is a positive number.
-
-Enter a value: -8
--8 is not a positive number.
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 135310](https://github.com/user-attachments/assets/080e5a7c-8d2b-479e-a3ee-83ac9474e562)
+
 # RESULT:
 Thus the program to read A values and check whether A is positive number or not has been executed successfully.
  
@@ -112,15 +105,10 @@ int main()
     printf("Minimum value between the two fractions is: %.2f\n", min);
     return 0;
 }
-## OUTPUT:
-Enter numerator and denominator of first fraction: 1 2
-Enter numerator and denominator of second fraction: 3 4
-Minimum value between the two fractions is: 0.50
-
-Enter numerator and denominator of first fraction: 5 8
-Enter numerator and denominator of second fraction: 2 5
-Minimum value between the two fractions is: 0.40
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 135829](https://github.com/user-attachments/assets/b6bb8d31-1048-4f96-bc33-7dc1657aab13)
+
 ## RESULT:
 Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
 
@@ -159,14 +147,10 @@ int main() {
     return 0;
 }
 
-
-## OUTPUT:
-Enter a value: 1
-The input value is equal to 1.
-
-Enter a value: 5
-The input value is not equal to 1.
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 135927](https://github.com/user-attachments/assets/4fd0e610-59ac-469f-a23d-a9818b024f62)
+
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
 
@@ -224,22 +208,15 @@ int main()
     
     return 0;
 }
-## OUTPUT:
-Enter marks of three subjects: 70 65 80
-Total Marks = 215.00
-Percentage = 71.67
-Division = First
-
-Enter marks of three subjects: 45 50 42
-Total Marks = 137.00
-Percentage = 45.67
-Division = Second
-
-Enter marks of three subjects: 50 30 60
-Total Marks = 140.00
-Percentage = 46.67
-Division = Fail
 ```
+## OUTPUT:
+![Screenshot 2025-04-27 140516](https://github.com/user-attachments/assets/aee51f47-4420-4f16-92a2-7d44d0e4d1ef)
+
+![Screenshot 2025-04-27 141343](https://github.com/user-attachments/assets/980f567a-f685-42a9-9bae-17577f851602)
+
+![Screenshot 2025-04-27 141627](https://github.com/user-attachments/assets/85e4450a-cce8-4d20-91e6-3e7b8b7e5e7d)
+
+
 
 
 ## RESULT:
