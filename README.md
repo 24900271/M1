@@ -212,7 +212,7 @@ int main()
 ## OUTPUT:
 ![Screenshot 2025-04-27 140516](https://github.com/user-attachments/assets/aee51f47-4420-4f16-92a2-7d44d0e4d1ef)
 
-![Screenshot 2025-04-27 141343](https://github.com/user-attachments/assets/980f567a-f685-42a9-9bae-17577f851602)
+![Screenshot 2025-04-27 141343](https://github.com/user-attachments/assets/980f567a-f685-42a9-9bae-17577f851602) 
 
 ![Screenshot 2025-04-27 141627](https://github.com/user-attachments/assets/85e4450a-cce8-4d20-91e6-3e7b8b7e5e7d)
 
